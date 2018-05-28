@@ -3,7 +3,7 @@
 > A Vue.js project for learning how to use Vue to make a interactive website.
 
 ## Git setup
-``` git
+``` bash
 # Clone the repo
 git clone https://github.com/NinngyouYunt/learning-vue.git
 
