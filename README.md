@@ -25,9 +25,12 @@ git push [name_of_remote] [name_of_branch]
 # To remove a local branch
 git branch -d [name_of_your_branch]
 ```
-asdfasd
-___DO NOT___ merge a branch locally and push it
-Use pull request on website
+Remeber to pull master to keep your code up-to-date  
+and rebase your branch so you have the newest master with your own change  
+alternatively, merge master to your own branch, solve conflict and merge(pull request)
+
+___DO NOT___ merge a branch locally to master and push it (it will overwrite what's on master)
+Use pull request on Github
 
 ## Build Setup
 
