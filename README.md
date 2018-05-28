@@ -24,11 +24,8 @@ git push [name_of_remote] [name_of_branch]
 ```
 
 ___DO NOT___ merge a branch locally and push it
-Use pull request on website or the following command
-```bash
-# Create a pull request
-git request-pull [branch_you_want_to_merge_to] [brance_you_worked_on]
-```
+Use pull request on website
+
 ## Build Setup
 
 ``` bash
