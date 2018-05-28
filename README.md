@@ -1,6 +1,6 @@
 # learning-vue
 
-> A Vue.js project
+> A Vue.js project for learning how to use Vue to make a interactive website.
 
 ## Build Setup
 
