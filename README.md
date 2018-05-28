@@ -13,8 +13,8 @@ git checkout -b [name_of_your_branch]
 # To push a branch to remote
 git push -u [name_of_remote] [name_of_your_branch]
 
-# To add changes
-git add .
+# To add changes, can use . to mean add all changed files
+git add [name_of_file]
 
 # To add commits
 git commit -m'commit messsage'
