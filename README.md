@@ -2,6 +2,30 @@
 
 > A Vue.js project for learning how to use Vue to make a interactive website.
 
+## Git setup
+``` bash
+# Clone the repo
+git clone https://github.com/NinngyouYunt/learning-vue.git
+
+# To create a branch and switch to it
+git checkout -b [name_of_your_branch]
+
+# To push a branch to remote
+git push -u [name_of_remote] [name_of_your_branch]
+
+# To add changes
+git add .
+
+# To add commits
+git commit -m'commit messsage'
+
+# To push to the remote origin
+git push [name_of_remote] [name_of_branch]
+```
+
+___DO NOT___ merge a branch locally and push it
+Use pull request on website
+
 ## Build Setup
 
 ``` bash
