@@ -25,7 +25,7 @@ git push [name_of_remote] [name_of_branch]
 # To remove a local branch
 git branch -d [name_of_your_branch]
 ```
-
+asdfasd
 ___DO NOT___ merge a branch locally and push it
 Use pull request on website
 
